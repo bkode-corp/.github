@@ -1,54 +1,43 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bkode-corp/.github/main/bkode-banner-github.png" alt="BKode" width="100%">
+  <img src="https://raw.githubusercontent.com/bkode-corp/.github/main/profile/hero.png" alt="BKode — Soluções em software para empresas, microempreendedores e estudantes." width="100%">
 </p>
 
 <p align="center">
-  Sistemas sob medida, automação com IA e produtos web<br>
-  para empresas, microempreendedores e estudantes.
-</p>
-
-<p align="center">
-  <sub>Belém, PA &nbsp;·&nbsp; <a href="mailto:bkode.corp@gmail.com">bkode.corp@gmail.com</a></sub>
+  <a href="mailto:bkode.corp@gmail.com"><img src="https://img.shields.io/badge/bkode.corp%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=FAFAFA" alt="E-mail: bkode.corp@gmail.com"></a>
+  <img src="https://img.shields.io/badge/Bel%C3%A9m%2C%20PA-18181B?style=flat-square&logo=googlemaps&logoColor=FAFAFA" alt="Belém, PA">
+  <a href="https://github.com/bk-marcosr"><img src="https://img.shields.io/badge/fundador-%40bk--marcosr-18181B?style=flat-square&logo=github&logoColor=FAFAFA&labelColor=09090B" alt="Fundador: @bk-marcosr"></a>
 </p>
 
 <br>
+
+A **BKode** desenvolve software sob medida em Belém, PA: sistemas internos, automação com IA e produtos web para empresas, microempreendedores, profissionais autônomos e estudantes.
+
+### O que construímos
+
+<img src="https://raw.githubusercontent.com/bkode-corp/.github/main/profile/capacidades.png" alt="O que construímos: Sistemas sob medida: Cadastros, painéis e permissões em cima do processo real da equipe.; Automação com IA: Atendimento no WhatsApp, documentos e rotinas que hoje tomam horas.; Produtos SaaS: Agenda, orçamentos e gestão financeira para pequenos negócios.; Sites e integrações: Sites rápidos e sistemas trocando dados sem retrabalho manual." width="100%">
 
 ### Projetos
 
-Desenvolvidos por [@bk-marcosr](https://github.com/bk-marcosr), fundador da BKode.
+Desenvolvidos por [@bk-marcosr](https://github.com/bk-marcosr), fundador da BKode. Os repositórios são privados.
 
-**Ecossistema Talos** &nbsp;`em produção`  
-Atendimento com IA no WhatsApp, com editor visual de fluxos que a equipe revisa.  
-<sub>Next.js · Express · Gemini · React Flow · Supabase</sub>
+<img src="https://raw.githubusercontent.com/bkode-corp/.github/main/profile/projeto-talos.png" alt="Ecossistema Talos — atendimento automatizado no WhatsApp com IA, em fluxos visuais. Stack: Next.js, Express, Gemini, React Flow, Supabase." width="100%">
 
-**Prazinho** &nbsp;`em produção`  
-Vendas a prazo, compras, estoque e fechamento do mês para pequenos revendedores.  
-<sub>React · TypeScript · Vite · Supabase</sub>
-
-**AgendaLink** &nbsp;`em produção`  
-Agenda online para autônomos, do horário marcado ao pagamento confirmado.  
-<sub>React · Vite · Supabase · Stripe</sub>
-
-**Full Motion**  
-Gestão de studio de pilates: aulas, créditos, pagamentos e portal do aluno.  
-<sub>React · TypeScript · Supabase · PWA</sub>
-
-**OrçaPro** &nbsp;`mvp`  
-Orçamentos em PDF com a marca do freelancer ou MEI.  
-<sub>React · Vite · Supabase · React PDF</sub>
-
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bkode-corp/.github/main/profile/projeto-prazinho.png" alt="Prazinho — Gestão financeira para revenda. Vendas a prazo, compras, estoque e fechamento do mês para pequenos revendedores. Stack: React, TypeScript, Vite, Supabase." width="49%">
+  <img src="https://raw.githubusercontent.com/bkode-corp/.github/main/profile/projeto-agenda-link.png" alt="AgendaLink — Agendamento com pagamento. Agenda online para autônomos, do horário marcado ao pagamento confirmado. Stack: React, Vite, Supabase, Stripe." width="49%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bkode-corp/.github/main/profile/projeto-full-motion.png" alt="Full Motion — Gestão de studio de pilates. Aulas, créditos, pagamentos e um portal para o aluno agendar sozinho. Stack: React, TypeScript, Supabase, PWA." width="49%">
+  <img src="https://raw.githubusercontent.com/bkode-corp/.github/main/profile/projeto-orcapro.png" alt="OrçaPro — Orçamentos em PDF. Orçamentos com a marca do freelancer ou MEI, gerados em poucos passos. Stack: React, Vite, Supabase, React PDF." width="49%">
+</p>
 
 ### Stack
 
-<p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/FAFAFA"><img src="https://cdn.simpleicons.org/react/09090B" alt="React" height="28"></picture>&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/FAFAFA"><img src="https://cdn.simpleicons.org/typescript/09090B" alt="TypeScript" height="28"></picture>&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FAFAFA"><img src="https://cdn.simpleicons.org/nextdotjs/09090B" alt="Next.js" height="28"></picture>&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vite/FAFAFA"><img src="https://cdn.simpleicons.org/vite/09090B" alt="Vite" height="28"></picture>&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/astro/FAFAFA"><img src="https://cdn.simpleicons.org/astro/09090B" alt="Astro" height="28"></picture>&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/FAFAFA"><img src="https://cdn.simpleicons.org/tailwindcss/09090B" alt="Tailwind CSS" height="28"></picture>&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/supabase/FAFAFA"><img src="https://cdn.simpleicons.org/supabase/09090B" alt="Supabase" height="28"></picture>&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FAFAFA"><img src="https://cdn.simpleicons.org/vercel/09090B" alt="Vercel" height="28"></picture>&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stripe/FAFAFA"><img src="https://cdn.simpleicons.org/stripe/09090B" alt="Stripe" height="28"></picture>
+<img src="https://raw.githubusercontent.com/bkode-corp/.github/main/profile/stack.png" alt="Stack: React, TypeScript, Next.js, Vite, Astro, Tailwind CSS, Supabase, Vercel, Stripe." width="100%">
+
+<br>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/354618688?s=96&v=4" alt="BKode" width="40"><br>
+  <sub>BKode · Belém, PA · <a href="mailto:bkode.corp@gmail.com">bkode.corp@gmail.com</a></sub>
 </p>
